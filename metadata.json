@@ -1,0 +1,7 @@
+{
+  "name": "Morihiko Coffee - Winter in Sapporo",
+  "description": "An elegant, single-page website for the iconic Morihiko Coffee in Sapporo, featuring a winter-themed aesthetic, products, gallery, and an AI barista assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
